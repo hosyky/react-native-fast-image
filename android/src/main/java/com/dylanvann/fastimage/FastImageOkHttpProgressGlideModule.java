@@ -17,6 +17,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.WeakHashMap;
 
+import okhttp3.Call;
 import okhttp3.Interceptor;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
